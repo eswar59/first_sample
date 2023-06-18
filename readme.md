@@ -1,2 +1,2 @@
 # sample for understanding github
-nice and smooth
+nice and smooth !
